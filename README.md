@@ -1,2 +1,2 @@
 # Moduls-Software-Quality-Assurance
-REPOSITORY KELOMPOK 4
+REPOSITORY TEAM 4
